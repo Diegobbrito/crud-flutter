@@ -1,6 +1,6 @@
-# crud
+# Project in Flutter for a CRUD
 
-A new Flutter project.
+A project using Flutter to create a CRUD for users with name, email and avatar.
 
 ## Getting Started
 
